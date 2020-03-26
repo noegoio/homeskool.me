@@ -55,20 +55,37 @@
 ## Other Resources
 
 https://www.starfall.com/h/
+
 https://www.abcya.com/
+
 https://www.funbrain.com/
+
 https://www.splashlearn.com/
+
 https://www.storylineonline.net/
+
 https://pbskids.org/
+
 https://www.highlightskids.com/
+
 https://kids.nationalgeographic.com/
+
 https://www.coolmath4kids.com/
+
 http://www.mathgametime.com/
+
 https://www.uniteforliteracy.com/
+
 http://www.literactive.com/Home/index.asp
+
 http://www.sciencekids.co.nz/
+
 https://www.switchzoo.com/
+
 https://www.seussville.com/
+
 https://www.turtlediary.com/
+
 https://www.e-learningforkids.org/
+
 https://www.uk.ixl.com
