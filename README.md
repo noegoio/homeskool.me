@@ -4,6 +4,7 @@
 
 ### Documentary
 [National Geographic Kids](https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg)
+
 [Geography Focus](https://www.youtube.com/channel/UC8HYERScBt-e0kV0fpe0asg)
 
 ### Spirititual & Human
@@ -11,12 +12,19 @@
 
 ### Science
 [Science Channel](https://www.youtube.com/user/ScienceChannel)
+
 [SciShow Kids](https://www.youtube.com/user/scishowkids)
+
 [TheBrainScoop](https://www.youtube.com/user/thebrainscoop)
+
 [SciShow](https://www.youtube.com/user/scishow)
+
 [Kids Learning Tube](https://www.youtube.com/channel/UC7EFWpvc1wYuUwrtZ_BLi9A)
+
 [Geeek Gurl Diaries](https://www.youtube.com/user/GeekGurlDiaries)
+
 [Mike Likes Science](https://www.youtube.com/user/comaniddy)
+
 [Science Max](https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw)
 
 ### Online Education
@@ -25,23 +33,23 @@
 
 ## Websites
 
-##Creative
+### Creative
 [Creative Bug](https://www.creativebug.com/)
 
-##Science
+### Science
 [BrainPop](https://www.brainpop.com/)
 [Curiosity Stream](https://curiositystream.com/)
 [Outschool](https://outschool.com/)
 [Discovery Education](https://www.discoveryeducation.com/)
 
-##Courses
+### Courses
 [Khan Academy](https://www.khanacademy.org/)
 [Udemy](https://www.udemy.com/)
 
-##Coding
+### Coding
 [Tynker](https://www.tynker.com/)
 
-##Math
+### Math
 [Beast Academy](https://beastacademy.com)
 
 ## Other Resources
