@@ -3,11 +3,13 @@
 ## Youtube Channels
 
 ### Documentary
+
 [National Geographic Kids](https://www.youtube.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg)
 
 [Geography Focus](https://www.youtube.com/channel/UC8HYERScBt-e0kV0fpe0asg)
 
 ### Spirititual & Human
+
 [SoulPancake](https://www.youtube.com/user/soulpancake)
 
 ### Science
@@ -28,28 +30,39 @@
 [Science Max](https://www.youtube.com/channel/UCbprhISv-0ReKPPyhf7-Dtw)
 
 ### Online Education
+
 [Free School](https://www.youtube.com/user/watchfreeschool)
+
 [Crash Course Kids](https://www.youtube.com/user/crashcoursekids)
 
 ## Websites
 
 ### Creative
+
 [Creative Bug](https://www.creativebug.com/)
 
 ### Science
+
 [BrainPop](https://www.brainpop.com/)
+
 [Curiosity Stream](https://curiositystream.com/)
+
 [Outschool](https://outschool.com/)
+
 [Discovery Education](https://www.discoveryeducation.com/)
 
 ### Courses
+
 [Khan Academy](https://www.khanacademy.org/)
+
 [Udemy](https://www.udemy.com/)
 
 ### Coding
+
 [Tynker](https://www.tynker.com/)
 
 ### Math
+
 [Beast Academy](https://beastacademy.com)
 
 ## Other Resources
