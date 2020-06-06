@@ -59,7 +59,11 @@
 
 ### Coding
 
+[Scratch](https://scratch.mit.edu/)
+
 [Tynker](https://www.tynker.com/)
+
+[6 Genius Ways Kids Can Learn to Code](https://techiehomeschoolmom.com/kids-learn-to-code/)
 
 ### Math
 
