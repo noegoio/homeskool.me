@@ -12,6 +12,10 @@
 
 [SoulPancake](https://www.youtube.com/user/soulpancake)
 
+### Apps
+
+[Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/)
+
 ### Science
 
 [Science Channel](https://www.youtube.com/user/ScienceChannel)
