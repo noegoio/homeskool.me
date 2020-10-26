@@ -1,5 +1,9 @@
 # Homeschooling Resources
 
+## Apps
+
+[Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/)
+
 ## Youtube Channels
 
 ### Documentary
@@ -11,10 +15,6 @@
 ### Spirititual & Human
 
 [SoulPancake](https://www.youtube.com/user/soulpancake)
-
-### Apps
-
-[Khan Academy Kids](https://learn.khanacademy.org/khan-academy-kids/)
 
 ### Science
 
